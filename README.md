@@ -12,4 +12,4 @@ https://drivertom.blogspot.com/2020/01/0dayup.html
 (转头发现这篇文章莫名其妙不见了，有时间补上）
 
 ## rce.py
-通达OA11.6 preauth RCE
+通达OA11.6 preauth RCE（全网首发）
