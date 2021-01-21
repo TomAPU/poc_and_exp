@@ -13,3 +13,6 @@ https://drivertom.blogspot.com/2020/01/0dayup.html
 
 ## rce.py
 通达OA11.6 preauth RCE（全网首发）
+
+## Packer-Fuzzer-RCE
+Packer-Fuzzer(https://github.com/rtcatc/Packer-Fuzzer) RCE 
