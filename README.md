@@ -1,5 +1,5 @@
 # poc_and_exp
-搜集的或者自己写的poc或者exp
+~~搜集的或者~~自己写的poc或者exp
 ### 所有代码仅为教育目的编写，使用范围仅限于教育研究以及合法的渗透测试及攻防演练，使用者请自觉遵守所在地法律法规
 
 ## pyspider unauthorized access
