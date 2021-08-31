@@ -20,3 +20,7 @@ Packer-Fuzzer(https://github.com/rtcatc/Packer-Fuzzer) RCE
 ## sourceleakhoneypot
 源码泄露利用程序的反制POC
 详见 https://drivertom.blogspot.com/2021/08/git.html
+
+## WpsLinuxRce
+WPS Linux(Version<=11.1.0.10161) RCE 
+CNVD地址:https://www.cnvd.org.cn/flaw/show/CNVD-2021-35581
