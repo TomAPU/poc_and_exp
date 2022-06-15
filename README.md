@@ -27,3 +27,7 @@ WPS Linux(Version<=11.1.0.10161) RCE
 CNVD地址:https://www.cnvd.org.cn/flaw/show/CNVD-2021-35581
 
 分析：https://drivertom.blogspot.com/2021/08/wps-for-linux-one-click-rcecnvd-2021.html
+
+## CVE-2018-1160
+CVE-2018-1160 复现，支持执行shellcode。
+实测Meterpreter的shellcode会出莫名其妙的问题，但是弹shell绰绰有余
